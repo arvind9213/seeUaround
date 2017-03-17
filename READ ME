@@ -1,4 +1,10 @@
 !important 
+
+It is a Google API integrated app,that search for popular place, ATM,
+Hotel etc near your location or any location manually entered and
+show the details about them.
+
+
 please allow cross platform resource sharing ,disabled by browsers.
 Either by Command promt or A simple plugin https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 
