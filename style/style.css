@@ -1,0 +1,94 @@
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: Roboto;
+      }
+      #map {
+        height: 100%;
+      }
+      .controls {
+        margin-top: 10px;
+        border: 1px solid transparent;
+        border-radius: 2px 0 0 2px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        height: 32px;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      }
+
+      #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+        margin-left: 12px;
+        padding: 0 11px 0 13px;
+        text-overflow: ellipsis;
+        width: 300px;
+      }
+
+      #sidebar{
+       position: absolute; top: 10px; left: 10px; z-index: 99; 
+       margin-top: 40px;
+       box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        height: 600px;
+        outline: none;
+        box-shadow: 0 3px 7px rgba(0, 0, 0, 0.9);
+        /*background-color: #E3F2FD;*/
+        width: 300px;
+        background:rgba(0, 0, 0,0.6);
+        overflow: hidden;
+
+    
+      }
+
+      #sidebar:hover {
+      overflow-y: scroll;
+      }
+
+
+
+      #pac-input:focus {
+        border-color: #4d90fe;
+      }
+
+      .pac-container {
+        font-family: Roboto;
+      }
+
+      #type-selector {
+        color: #fff;
+        background-color: #4d90fe;
+        padding: 5px 11px 0px 11px;
+      }
+
+      #type-selector label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+      }
+
+
+
+      .modal-header{
+        background-color: #337ab7;
+    
+      }
+
+      .modal-body{
+        background-color: #E3F2FD;
+      }
+
+      .modal-footer{
+        background-color: #E3F2FD;
+      }
+
+      #titles{
+
+        padding: 5px;
+        background:rgba(0, 0, 200, 0.1); 
+        align: center;
+      }

@@ -1,0 +1,25 @@
+
+{
+   "destination_addresses" : [ "Unnamed Road, Rajghat, Nepal" ],
+   "origin_addresses" : [
+      "Bhagawan Mahavir Marg, Sector 36, Rohini, New Delhi, Delhi 110039, India"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "862 mi",
+                  "value" : 1388047
+               },
+               "duration" : {
+                  "text" : "21 hours 49 mins",
+                  "value" : 78515
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
